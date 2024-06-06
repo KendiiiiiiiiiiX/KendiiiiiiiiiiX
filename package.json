@@ -1,0 +1,12 @@
+{
+	"name": "KendiX's World",
+	"description": "Le bot du goat",
+	"version": "1.0.0",
+	"main": "bot.js",
+	"scripts": {
+		"test": "node bot.js"
+	},
+	"dependencies": {
+		"discord.js": "^14.15.3"
+	}
+}
